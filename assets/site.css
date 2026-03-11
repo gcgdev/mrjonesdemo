@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --bg-900: #090a0c;
   --bg-850: #101113;
   --bg-800: #14171b;
@@ -1281,3 +1281,4 @@ textarea:focus-visible,
     transform: none;
   }
 }
+
