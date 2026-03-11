@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="1" stop-color="#14171b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#c69553"/>
+      <stop offset="1" stop-color="#9d7038"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="120" r="220" fill="#8f1d1d" opacity="0.15"/>
+  <circle cx="150" cy="520" r="240" fill="#c69553" opacity="0.09"/>
+  <rect x="70" y="80" width="8" height="470" fill="url(#accent)"/>
+  <text x="110" y="240" fill="#f4efe7" font-size="132" font-family="Bebas Neue, Arial Narrow, sans-serif" letter-spacing="4">MR. JONES</text>
+  <text x="110" y="320" fill="#c69553" font-size="54" font-family="Bebas Neue, Arial Narrow, sans-serif" letter-spacing="2">BARBEARIA</text>
+  <text x="110" y="390" fill="#d8d1c4" font-size="40" font-family="Source Sans 3, Segoe UI, sans-serif">Guaratingueta e Aparecida</text>
+  <text x="110" y="448" fill="#d8d1c4" font-size="36" font-family="Source Sans 3, Segoe UI, sans-serif">Pre-agendamento online e confirmacao no WhatsApp</text>
+</svg>
